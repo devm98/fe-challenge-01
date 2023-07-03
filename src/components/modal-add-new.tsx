@@ -1,4 +1,4 @@
-import { Form, Input, InputNumber, Modal } from "antd";
+import { Form, Input, Modal } from "antd";
 import { useEffect } from "react";
 import { FruitModel } from "../models";
 
