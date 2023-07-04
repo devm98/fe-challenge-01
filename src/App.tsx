@@ -13,7 +13,6 @@ import {
   useLocation,
   useNavigate,
 } from "react-router-dom";
-import AuthProvider from "./auth/auth-provider";
 import RequireAuth from "./auth/require-auth";
 import useAuth from "./auth/use-auth";
 import FruitPage from "./pages/fruit-page";
